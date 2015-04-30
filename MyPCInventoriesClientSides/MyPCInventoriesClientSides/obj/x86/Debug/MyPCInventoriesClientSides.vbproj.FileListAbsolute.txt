@@ -1,0 +1,34 @@
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.exe.config
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.exe.manifest
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.application
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.exe
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.pdb
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.Form1.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.Resources.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.vbproj.GenerateResource.Cache
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.TrustInfo.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.exe.manifest
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.application
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.exe
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.pdb
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.exe.config
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.exe
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.pdb
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.exe.manifest
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.application
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.exe
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.pdb
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.Form1.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.Resources.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.vbproj.GenerateResource.Cache
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.TrustInfo.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.exe.manifest
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.application
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\bin\Debug\MyPCInventoriesClientSides.exe.config
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.exe
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.xml
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventoriesClientSides\MyPCInventoriesClientSides\obj\x86\Debug\MyPCInventoriesClientSides.pdb

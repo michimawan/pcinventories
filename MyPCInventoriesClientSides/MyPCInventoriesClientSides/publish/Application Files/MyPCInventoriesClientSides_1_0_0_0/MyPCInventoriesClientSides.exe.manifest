@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="MyPCInventoriesClientSides.exe" version="1.0.0.0" publicKeyToken="764e3146ad93d3f8" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="1423181337_171529.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="MyPCInventoriesClientSides" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="MyPCInventoriesClientSides.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" ID="Custom" SameSite="site" Unrestricted="true" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Sentinel.v3.5Client" version="3.5.0.0" publicKeyToken="b03f5f7f11d50a3a" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MyPCInventoriesClientSides.exe" size="161280">
+      <assemblyIdentity name="MyPCInventoriesClientSides" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>m3/5HGsZrT6kIlNxw5IRSU4NqvM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="1423181337_171529.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>BGhnlDUWMvS3fcJ1fZRigFPTg7U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MyPCInventoriesClientSides.exe.config" size="152">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>PM9vJ4eUAecp8tsgRxq/qS20HYE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=himawan-PC\michael himawan" issuerKeyHash="016a52b1c094e364b8d30d442bb57fc8ac57120c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>TfbOBod3b9/ICtKAjUpGmSVw46w=</DigestValue></Reference></SignedInfo><SignatureValue>IufaqheeLxpVI1AghXO5RBEEQC9E8oeKQUWP+nfypZAdhkRUdPcelJsaHuatgVrvxqKBovwm7QhUqgQ8J/C3l9xDgM8C4fbWX0zIjlgc3Si0THxtdtbaGhl5ojsuoVIeTSUMOHWfAQ/Ndinw+V6zoJItuA8MQDkGY0an85N3pdg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zn18A2TIC/9AIWOWRsAXBYHRTpXiP0kpEfUCqXwr4wxGHAUjtt897ARaCiKcmTbVKDAFCvFmR30CAdRpS9kZgx17qs6s3T0d2bCGiBehySVlfwOqgG9VGDQTyGhVyP6XDK8WpXpocsWA9VF6kk+XbuPY5cO3E5rICQizE49AMaM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ace3702599464a8d80d20ac8df6f778706cef64d" Description="" Url=""><as:assemblyIdentity name="MyPCInventoriesClientSides.exe" version="1.0.0.0" publicKeyToken="764e3146ad93d3f8" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=himawan-PC\michael himawan</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>kriFEIilYnYmb4rizd/+J/JT5hM=</DigestValue></Reference></SignedInfo><SignatureValue>Xp2CUB3KAclf/BRSjSrd32w4qkrjWS951SWnpiQyJfZGgDP0Mph517GueuwunL7sdXNwaKsa0NEm1FvxoJDwQxfa7HT8J1ajIwK0ZUnqDClyy+mzNHGX+GafPFPZhybxwmcHgxgaP3nLfWdFbG2rXu1fBJigGyGk4uPFiprHQAA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zn18A2TIC/9AIWOWRsAXBYHRTpXiP0kpEfUCqXwr4wxGHAUjtt897ARaCiKcmTbVKDAFCvFmR30CAdRpS9kZgx17qs6s3T0d2bCGiBehySVlfwOqgG9VGDQTyGhVyP6XDK8WpXpocsWA9VF6kk+XbuPY5cO3E5rICQizE49AMaM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQQ5Wef0qclrhJD7jsykhHrDANBgkqhkiG9w0BAQUFADA/MT0wOwYDVQQDHjQAaABpAG0AYQB3AGEAbgAtAFAAQwBcAG0AaQBjAGgAYQBlAGwAIABoAGkAbQBhAHcAYQBuMB4XDTE1MDIwNTE4MTIxM1oXDTE2MDIwNjAwMTIxM1owPzE9MDsGA1UEAx40AGgAaQBtAGEAdwBhAG4ALQBQAEMAXABtAGkAYwBoAGEAZQBsACAAaABpAG0AYQB3AGEAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzn18A2TIC/9AIWOWRsAXBYHRTpXiP0kpEfUCqXwr4wxGHAUjtt897ARaCiKcmTbVKDAFCvFmR30CAdRpS9kZgx17qs6s3T0d2bCGiBehySVlfwOqgG9VGDQTyGhVyP6XDK8WpXpocsWA9VF6kk+XbuPY5cO3E5rICQizE49AMaMCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAoB2KOaBxr4mKObPIorTlu2biWXQ/ADMZ+VFoTa2jnKAcsgSB/VYPJZrawXD7evosNnASRCXCPBdkmWRMIS95YmaTAW/QgC78X9bTLEGOM5t4PlHOWHVGB7yp+IV6LCSoH74bQeSWaK7/f7iXimzsEfevuAiCNI7Gu94v3MO2sfg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

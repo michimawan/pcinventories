@@ -1,0 +1,59 @@
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.exe.config
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.exe.manifest
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.application
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.exe
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.pdb
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\bin\Debug\MySql.Data.dll
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\bin\Debug\System.Data.dll
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.editStaff.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.loginForm.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.mains.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.Resources.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.saveForm.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.vbproj.GenerateResource.Cache
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.exe.manifest
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.application
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.exe
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.pdb
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.exe.config
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.exe
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.pdb
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.exe.manifest
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.application
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.exe
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.pdb
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.xml
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\bin\Debug\MySql.Data.dll
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\bin\Debug\System.Data.dll
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.editStaff.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.loginForm.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.mains.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.Resources.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.saveForm.resources
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.vbproj.GenerateResource.Cache
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.exe.manifest
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.application
+C:\Users\michael himawan\Documents\Visual Studio 2010\Projects\Awan Tech (done)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.vbprojResolveAssemblyReference.cache
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.exe.config
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.exe
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.xml
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.pdb
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.exe.manifest
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.application
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.exe
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.pdb
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\bin\Debug\MyPCInventories.xml
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\bin\Debug\MySql.Data.dll
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\bin\Debug\System.Data.dll
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.vbprojResolveAssemblyReference.cache
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.editStaff.resources
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.loginForm.resources
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.mains.resources
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.Resources.resources
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.saveForm.resources
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.vbproj.GenerateResource.Cache
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.exe.manifest
+H:\Awan Tech\Inventaris PC (via jaringan)\MyPCInventories\MyPCInventories\obj\x86\Debug\MyPCInventories.application
